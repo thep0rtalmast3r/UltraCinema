@@ -1,1 +1,1 @@
-# UltraCinema
+Move the UltraCinema folder into the USTs folder that USTManager made (THE STEAM VERSION NOT R2MODMAN), then turn it on in the audio settings.

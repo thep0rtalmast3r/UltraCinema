@@ -1,0 +1,187 @@
+{
+  "Name": "Ultracinema",
+  "Author": "Author",
+  "Description": "Description",
+  "levels": {
+    "comments": {
+      "Comment": "This is an example UST file. It will get regenerated each time you launch the game with USTManager installed. Omit any unused parts."
+    },
+    "global": {
+      "0-E Hot": "audio\\Dead Heat Pulse.mp3",
+    },
+    "0-0": {
+      "clean": "audio\\audio",
+      "battle": "audio\\audio"
+    },
+    "0-1": {
+      "clean": "audio\\Into the Fire Calm.mp3",
+      "battle": "audio\\Into the Fire.mp3"
+    },
+    "0-2": {
+      "clean": "audio\\Unstoppable Force Calm.mp3",
+      "battle": "audio\\Unstoppable Force.mp3"
+    },
+    "0-3": {
+      "clean": "audio\\Into the Fire Calm.mp3",
+      "battle": "audio\\Into the Fire.mp3"
+    },
+    "0-4": {
+      "clean": "audio\\Unstoppable Force Calm.mp3",
+      "battle": "audio\\Unstoppable Force"
+    },
+    "0-5": {
+      "boss1": "audio\\audio",
+      "boss2": "audio\\audio"
+    },
+    "1-1": {
+      "clean1": "audio\\audio",
+      "clean2": "audio\\audio",
+      "battle": "audio\\audio"
+    },
+    "1-2": {
+      "clean0": "audio\\audio",
+      "clean1": "audio\\audio",
+      "clean2": "audio\\audio",
+      "battle0": "audio\\audio",
+      "battle1": "audio\\audio",
+      "battle2": "audio\\audio"
+    },
+    "1-3": {
+      "clean": "audio\\1281538_ULTRAKILL---Halls-of-Sacri.mp3",
+      "battle": "audio\\Castle Vein.mp3",
+      "boss": "audio\\Halls of Sacrilegious Remains"
+    },
+    "1-4": {
+      "piano": "audio\\Clair De Lune.mp3",
+      "intro": "audio\\Versus_Intro.mp3",
+      "boss": "audio\\Versus.mp3"
+    },
+    "2-1": {
+      "clean": "audio\\Cold Winds Piano.mp3",
+      "battle": "audio\\audio"
+    },
+    "2-2": {
+      "clean": "audio\\reqcalm.mp3",
+      "battle": "audio\\reqcombat.mp3"
+    },
+    "2-3": {
+      "clean": "audio\\audio",
+      "battle": "audio\\audio"
+    },
+    "2-4": {
+      "boss1": "audio\\audio",
+      "boss2": "audio\\audio"
+    },
+    "3-1": {
+      "clean1": "audio\\audio",
+      "clean2": "audio\\Glory Piano.mp3",
+      "battle1": "audio\\audio",
+      "battle2": "audio\\Glory Remix.mp3"
+    },
+    "3-2": {
+      "intro1": "audio\\audio",
+      "intro2": "audio\\audio",
+      "boss": "audio\\audio"
+    },
+    "4-1": {
+      "clean": "audio\\Dune Eternal.mp3",
+      "battle": "audio\\Dune Eternal RTX.mp3"
+    },
+    "4-2": {
+      "clean": "audio\\Sands of Tide Calm.mp3",
+      "battle": "audio\\Sands of Tide.mp3"
+    },
+    "4-3": {
+      "clean1": "audio\\/dark1calm.mp3",
+      "clean2": "audio\\dark2calm.mp3",
+      "clean3": "audio\\dark2calm.mp3",
+      "battle1": "audio\\dark1com.mp3",
+      "battle2": "audio\\dark2.mp3",
+      "battle3": "audio\\dark3.mp3"
+    },
+    "4-4": {
+      "drone": "audio\\Duel_Drone.mp3",
+      "bassline": "audio\\Duel_Bassline.mp3",
+      "intro": "audio\\Duel_Intro.mp3",
+      "boss": "audio\\Duel.mp3",
+      "outro": "audio\\Duel_Outro.mp3"
+    },
+    "5-1": {
+      "clean": "audio\\Deep Blue Calm.mp3",
+      "battle": "audio\\Deep Blue.mp3"
+    },
+    "5-2": {
+      "boss1": "audio\\audio",
+      "boss2": "audio\\audio",
+      "boss3": "audio\\audio"
+    },
+    "5-3": {
+      "clean1": "audio\\audio",
+      "clean2": "audio\\Death Odyssey Music Box.mp3",
+      "battle1": "audio\\Death Odyssey.mp3",
+      "battle2": "audio\\Death Odyssey Elevator Jazz.mp3"
+    },
+    "5-4": {
+      "boss1": "audio\\audio",
+      "boss2": "audio\\audio"
+    },
+    "6-1": {
+      "clean": "audio\\audio",
+      "battle": "audio\\Altars of Apostasy.mp3",
+      "boss": "audio\\Halls of Sacrilegious Remains.mp3"
+    },
+    "6-2": {
+      "boss": "audio\\The Death of Gods Will.mp3"
+    },
+    "7-1": {
+      "clean": "audio\\The World Looks White - Cinematic Cover.mp3",
+      "battle": "audio\\The World Looks Red.mp3",
+      "boss1": "audio\\BULL OF HELL 1ST guitar.wav",
+      "boss2": "audio\\BULL OF HELL 2ND guitar.wav"
+    },
+    "7-2": {
+      "clean1": "audio\\Hear! The Siren Song Call of Death Music Box.mp3",
+      "clean2": "audio\\audio",
+      "battle1": "audio\\Do Robots Dream Of Eternal Sleep Combat.mp3",
+      "battle2": "audio\\Hear! The Siren Song Call Of Death.mp3"
+    },
+    "7-3": {
+      "clean1": "audio\\audio",
+      "clean2": "audio\\audio",
+      "battle1": "audio\\Suffering Leaves Suffering Leaves.mp3",
+      "battle2": "audio\\Danse Macabre.mp3"
+    },
+    "7-4": {
+      "outside1": "audio\\wwr1.mp3",
+      "outside2": "audio\\wwr2.mp3",
+      "outside3": "audio\\wwr3.mp3",
+      "outside4": "audio\\wwr4.mp3",
+      "outside5": "audio\\wwr5.mp3",
+      "outside6": "audio\\audio",
+      "inside1": "audio\\wwr6.mp3",
+      "inside2": "audio\\wwr7.mp3",
+      "inside3": "audio\\wwr8.mp3",
+      "escape1": "audio\\wwr9.mp3",
+      "escape2": "audio\\wwr10.mp3",
+      "escape3": "audio\\wwr11.mp3"
+    },
+    "P-1": {
+      "intro1": "audio\\audio",
+      "intro2": "audio\\audio",
+      "intro3": "audio\\audio",
+      "intro4": "audio\\audio",
+      "boss1": "audio\\audio",
+      "speech": "audio\\Order Speech Guitar.mp3",
+      "boss2": "audio\\ORDER Lyrics.mp3"
+    },
+    "P-2": {
+      "intro": "audio\\audio",
+      "weezer": "audio\\weezer.mp3",
+      "clean": "audio\\audio",
+      "battle": "audio\\Tenebre Rosso Sangue (Heavy Metal).mp3",
+      "boss1": "audio\\Pandemonium.mp3",
+      "speech": "audio\\WAR_speech.mp3",
+      "boss2": "audio\\WAR.mp3"
+    }
+  }
+}

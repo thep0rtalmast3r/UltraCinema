@@ -1,0 +1,10 @@
+{
+    "name": "UltraCinema",
+    "version_number": "1.0.0",
+    "website_url": "https://www.youtube.com/@thep0rtalmast3r",
+    "description": "ok",
+    "dependencies": [
+        "ZedDev-USTManager-1.5.2"
+    ,    "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
